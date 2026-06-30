@@ -14,8 +14,8 @@ Anyways i made The Theme selactor as my own version of Flavour. In each Flavour 
 
 Each Flavour has its seted Theme, if you choose a theme it will only show you the directorys that you choose to apply the wallpapers which is the key to themeing. I am using pywal16 to inject wallpapers colors to all Application and desktop to match the vibe. In themes there are Default, i3, anime, Gruvbox, Everforest, Catpuchhin etc.
 
->>Default-Flavour: As the name suggests on your 1st install if you dont change the install script then Default Flavour will be setted. It has besic animation , gaps, blurs, notification + Notification sound, Start up music, custom cursor and everything is changeable.
+Default-Flavour: As the name suggests on your 1st install if you dont change the install script then Default Flavour will be setted. It has besic animation , gaps, blurs, notification + Notification sound, Start up music, custom cursor and everything is changeable.
 
->>i3-Flavour: Its not the 13 window manager it Hyprland setted like i3. Because i3 was my 1st tilling window manager it has place in my heart. So i made i3 look alike window nor rounded corners, no blurs, no animation, no notification sound, the waybar is setted to look my og i3 blocks it was my 1st ever rice. So i recreated it and still usinf rofi but setted to look like dmenu. I use i3 flavour when i work on my web. Projects cause than i dont want any distractions
+i3-Flavour: Its not the 13 window manager it Hyprland setted like i3. Because i3 was my 1st tilling window manager it has place in my heart. So i made i3 look alike window nor rounded corners, no blurs, no animation, no notification sound, the waybar is setted to look my og i3 blocks it was my 1st ever rice. So i recreated it and still usinf rofi but setted to look like dmenu. I use i3 flavour when i work on my web. Projects cause than i dont want any distractions
 >
 

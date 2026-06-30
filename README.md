@@ -1,14 +1,14 @@
 # The-All-Blue  [ Arch Hyprland.conf ]
 **(Haven't Shifted to lua yet)**
 
-*For your information i will spell **Flavour** as the British accent*
+*For your information i will spell **Flavour** as in British accent*
 ## Intro
 >The-All-Blue is FULLY customizable free Arch Hyprland(0.55.3) .Dots Repo. Everyone is welcome to use and leave their thoughts how you liked it or which you didn't. Still learning so your kind words will be much appreciated ❤️. It has custom Flavour, Theme & Wallpaper Switcher via Rofi. You can choose which Flavour you want in Rofis preview. As you can tell this concept is completly taken from OMARCHY that made by DHH a very handsome dude. You could say why i made this than, i could use omarchy. Well it is good but i want something more personal that "I" created. Than i will know how everything works and will know how to fix it.
 >
 
 ## Now, what are Flavours?
 
->I could use only Themes and Wallpaper Switcher But i added This extra Layer Just cause i can🙂.
+>I could use only Themes and Wallpaper Switcher But i added This extra Layer "Flavour" Just cause i can🙂.
 >
 >Anyways i made The Theme selactor as my own version of Flavour. In each Flavour there are many kinds of desktop styles, animation, background and vibe. In omarchy when you change themes it changes the whole desktop theme the colors, font and all that. My Flavours chnages everything too GTK theme , cursor, Waybar layout, window layout, animation, notification AKA swaync, Rofi, powermenu, swayosd just like omarchy(well not as good, but i tried).
 >

@@ -14,7 +14,7 @@ Always check before install something.**
 
 >Flavours are alternative to omarchys theme switcher. They are the same thing. I just named my version of them **Flavours** Just cause i can🙂.
 >
->Anyways, Each Flavour there own kinds of desktop styles, animation, background and vibe. In omarchy when you change themes it changes the whole desktop theme the colors, font and all that. My Flavours chnages everything too GTK theme , cursor, Waybar layout, window layout, animation, notification AKA swaync, Rofi, powermenu, swayosd, screensaver video, hyprlock, startup intro music just like omarchy(well not as good, but i tried).Also made my own version of screensaver like omarchy but mine plays videos✌️.In omarchy it sets theme not only desktop but vscode, nvim, chrome but i targeted few cause i dont have that much time to do all that. Thats for Future maybe (i dont want those now).
+>Anyways, Each Flavour there own kinds of desktop styles, animation, background and vibe. In omarchy when you change themes it changes the whole desktop theme the colors, font and all that. My Flavours chnages everything too **GTK theme** , **cursor**, **Waybar layout**, **window layout**, **animation**, **notification AKA swaync**, **Rofi**, **powermenu**, **swayosd**, **screensaver video**, **hyprlock**, **startup intro music** just like omarchy(well not as good, but i tried).Also made my own version of screensaver like omarchy but mine plays videos✌️.In omarchy it sets theme not only desktop but vscode, nvim, chrome but i targeted few cause i dont have that much time to do all that. Thats for Future maybe (i dont want those now).
 >
 >Each Flavour has its seted Theme, if you choose a theme it will only show you the directorys that you choose to apply the wallpapers from, which is the key to themeing. I am using pywal16 to inject wallpapers colors to all Application and desktop to match the vibe. In themes there are Default, i3, anime, Gruvbox, Everforest, Catpuchhin etc.
 >
@@ -41,6 +41,14 @@ Always check before install something.**
 * hypridle
 * screensaver (When goes to idle screensaver "video" plays - dont have any ascii like omarchy🙁)
 
+
+### Default apps and programs
+
+* Default editor is vscode (cause i am still noob at vim motions)
+
+
+
+### Keybindings
   # Todo: make separate script to all install script also for theme switcher so, if anyone want to have that they can only install that not the whole dots
 
 

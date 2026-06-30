@@ -2,7 +2,7 @@
 **(Haven't Shifted to lua yet)**
 
 ## One command installation setup
-The-All-Blue install-all.sh script is setted to lazy install that means it will install all the necessery packages and put them to their right places. But still you should check what this scripts and packages are installing cause dont just trust any random guy on the internet. 
+The-All-Blue `install-all.sh` script is setted to lazy install that means it will install all the necessery packages and put them to their right places. But still you should check what this scripts and packages are installing cause dont just trust any random guy on the internet. 
 **Always check before install something.**
 
 *For your information i will spell **Flavour** as in British accent*
